@@ -14,7 +14,7 @@
 	<h2> Payroll Management System </h2>
 		<tr>
 			<td>
-				User-mail:
+				User Name:
 			</td>
 			<td>
 				<spr:input path="userName"/>
@@ -55,7 +55,7 @@
 			</td>
 		</tr><tr>
 			<td>
-				mb_no:
+				email:
 			</td>
 			<td>
 				<input type="text"   >

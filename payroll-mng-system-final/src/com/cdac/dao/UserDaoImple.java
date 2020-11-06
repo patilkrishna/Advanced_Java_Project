@@ -21,8 +21,6 @@ public class UserDaoImple implements UserDao {
 
 	@Override
 	public void insertUser(User user) {
-		
-		
 		hibernateTemplate.execute(new HibernateCallback<Void>() {
 
 			@Override
